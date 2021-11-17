@@ -34,9 +34,10 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - Oracle Cloud
 - Java
 - HTML
+- CSS
 - TypeScript
 - JavaScript
-- CSS
+
 
 
 ## Contribuições individuais/pessoais

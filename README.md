@@ -1,6 +1,6 @@
 # API-4SEM
 Projeto Integrador do 4º Semestre de Banco de Dados FATEC-2021
-## 📝 Resumo do projeto:
+## Resumo do projeto:
 
 <p align="center"> <img src="https://github.com/MaXximiles/API-4SEM/blob/main/Documenta%C3%A7%C3%A3o/logo%20com%20nome.png"> </p>
 <p align="center"> <a href="https://github.com/MaXximiles/API-4SEM"> <img src= "https://img.shields.io/badge/-Link%20do%20Projeto-brightgreen"></a> </p>
@@ -26,7 +26,7 @@ O sistema Endurance tem como objetivo principal o gerenciamento de eventos, poss
  - [Backlog](https://trello.com/b/E2Xm3K4N/api-4-sem-endurance-oracle)
  - [Design Thinking](https://www.figma.com/proto/EmAtO4ISBvw2fBlpwq5pyP/Endurance---API-4SEM?page-id=0%3A1&node-id=73%3A28&viewport=241%2C48%2C0.17&scaling=scale-down&starting-point-node-id=29%3A753)
 
-## 💡 Tecnologias adotadas na solução
+## Tecnologias adotadas na solução
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - SpringBoot

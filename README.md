@@ -56,7 +56,8 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - Desenvolvimento do modelo conceitual de Banco de Dados;
 - Desenvolvimento do modelo lógico de Banco de Dados;
 
-### Main
+### GitHub:
+#### Main
 ````
 # API-4SEM
 Projeto Integrador do 4º Semestre de Banco de Dados FATEC-2021
@@ -150,7 +151,7 @@ O sistema Endurance tem como objetivo principal o gerenciamento de eventos, poss
 ````
 
 
-### Sprint 1
+#### Sprint 1
 
 ```
 ## 💻 Sprint 1
@@ -213,7 +214,7 @@ Resumo de modificações:
 
 
 
-### Proposta para próxima sprint:
+#### Proposta para próxima sprint:
 Para a próxima sprint temos o objetivo de desenvolver o cadastro de eventos.
 ```
 
@@ -285,7 +286,7 @@ Resumo de modificações:
 Para a próxima sprint teremos o objetivo de desenvolver a visualização do status de agendamento e criar níveis de usuário para definir controle e o prioridade nos eventos.
 ``` 
 
-### Sprint 3
+#### Sprint 3
 ```
 ## 💻 Sprint 3
 
@@ -379,7 +380,7 @@ Proposta para proxima sprint:
 <img src="https://raw.githubusercontent.com/MaXximiles/API-4SEM/main/Documentação/User%20Story%20Cards/story%20card%209.jpg?raw=true" width=300 height=200>
 ```
 
-### SQL
+### SQL:
 ```
 CREATE TABLE usuarios
 (

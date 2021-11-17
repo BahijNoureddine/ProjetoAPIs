@@ -29,16 +29,22 @@ O sistema Endurance tem como objetivo principal o gerenciamento de eventos, poss
 ## Tecnologias adotadas na solução
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
-- SpringBoot
-- Angular CLI versão 12.2.2
-- Oracle para Banco de Dados
-- Oracle Cloud
-- Java
-- HTML
-- CSS
-- TypeScript
-- JavaScript
 
+- HTML5
+- CSS3
+- Typescript
+- Javascript
+- Node
+- React
+- Front-End:
+  - Angular
+  - Bootstrap
+- Back-End:
+  - Linguagem Java
+  - Springboot Maven
+- Banco de Dados:
+  - Oracle Database
+  - Oracle Cloud
 
 
 ## Contribuições individuais/pessoais
@@ -66,17 +72,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 [springboot]: https://spring.io/projects/spring-boot
 [angular]: https://angular.io/cli
 [oracle]: https://www.oracle.com/br/database/
-<!----
-- [ReactJs][reactjs]
-- [NodeJS][nodejs]
-- [SpringBoot][springboot]
-- [Flyway][flyway]
 
-
-[reactjs]: https://pt-br.reactjs.org
-[nodejs]: https://nodejs.org/en/
-[flyway]: https://flywaydb.org
-[springboot]: https://spring.io/projects/spring-boot -->
 
 ## Integrantes:
 
@@ -477,5 +473,13 @@ CREATE TABLE participantes
 <img src=https://github.com/MaXximiles/API-4SEM/blob/main/Documentação/Database/conceitual%201.1.jpg></br>
 
 ## Aprendizados efetivos
+- Aprimoramento nas habilidades de criação e desenvolvimento de Banco de Dados;
+  - Com a criação e desenvolvimento de novos modelos lógico e relacional de Banco de Dados pude aprimorar meus conhecimentos melhorando minha autonomia.   
+  - Com a criação e desenvolvimento de novos scripts SQL pude aprender mais sobre o Banco de Dados Oracle aprofundando meu conhecimento e me capacitando a criar e desenvolver um banco de dados de forma mais coerente com mais autonomia;   
+- Aprimoramento nas habilidades de criação e desenvolvimento da documentação do projeto no GitHub;
+  - Com a criação de um novo repositório no GitHub pude aprimorar meus conhecimentos em função da documentação semanal que fazia no projeto, aprofundando meus conhecimentos em HTML e CSS.
+- Aprimoramento do raciocínio lógico na resolução de problemas dia a dia no projeto;
+- Aprimoramento na interação com membros do grupo;
+
 
 

@@ -5,6 +5,7 @@ Projeto Integrador do 4º Semestre de Banco de Dados FATEC-2021
 <p align="center"> <img src="https://github.com/MaXximiles/API-4SEM/blob/main/Documenta%C3%A7%C3%A3o/logo%20com%20nome.png"> </p>
 <p align="center"> <a href="https://github.com/MaXximiles/API-4SEM"> <img src= "https://img.shields.io/badge/-Link%20do%20Projeto-brightgreen"></a> </p>
 
+
 <p align="center"> <a href="https://www.linkedin.com/in/bahij-noureddine-941b681b7/"> <img src= "https://img.shields.io/badge/Bahij%20Noureddine-Linkedin-brightgreen"></a> </p>
 
 ## Cliente:
@@ -47,11 +48,13 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
   - Oracle Cloud
 
 
+
+
 ## Contribuições individuais/pessoais
 - Documentação do projeto no GitHub;
-- Criação e desenvolvimento do Banco de Dados;
-- Desenvolvimento do modelo conceitual do Banco de Dados;
-- Desenvolvimento do modelo lógico do Banco de Dados;
+- Criação e desenvolvimento de Banco de Dados;
+- Desenvolvimento do modelo conceitual de Banco de Dados;
+- Desenvolvimento do modelo lógico de Banco de Dados;
 
 ### Main
 ````
@@ -478,8 +481,7 @@ CREATE TABLE participantes
   - Com a criação e desenvolvimento de novos scripts SQL pude aprender mais sobre o Banco de Dados Oracle aprofundando meu conhecimento e me capacitando a criar e desenvolver um banco de dados de forma mais coerente com mais autonomia;   
 - Aprimoramento nas habilidades de criação e desenvolvimento da documentação do projeto no GitHub;
   - Com a criação de um novo repositório no GitHub pude aprimorar meus conhecimentos em função da documentação semanal que fazia no projeto, aprofundando meus conhecimentos em HTML e CSS.
-- Aprimoramento do raciocínio lógico na resolução de problemas dia a dia no projeto;
-- Aprimoramento na interação com membros do grupo;
+
 
 
 
